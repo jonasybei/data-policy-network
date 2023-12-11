@@ -1,0 +1,57 @@
+This is the folder where the data loading, as well as the data resides. For now, the following universities have been considered:
+
+- Aeres University of Applied Sciences
+- Amsterdam Fashion Academy
+- Amsterdam University College
+- Amsterdam University of Applied Sciences
+- Amsterdam University of the Arts
+- Amsterdam Hogeschool vor de Kunsten
+- ArtEZ Institute of The Arts
+- Avans Hogeschool, University of Applied Sciences
+- Breda University of Applied Sciences
+- Christelijke Hogeschool Ede
+- Codarts, University of the Arts
+- Delft University of Technology
+- Design Academy Eindhoven
+- Erasmus University Rotterdam
+- Fontys University of Applied Sciences
+- Gerrit Rietveld Academie
+- Hague University of Applied Sciences
+- HAN University of Applied Sciences
+- Hanze University of Applied Sciences
+- HAS University of Applied Sciences
+- Hogeschool Van Amsterdam
+- Hogeschool Wittenborg
+- Hotelschool The Hague
+- Hu University of Applied Sciences Utrecht
+- Hz University of Applied Sciences
+- Inholland University of Applied Sciences
+- Leiden University
+- Leiden University College The Hague
+- Maastricht School of Management
+- Maastricht University
+- Netherlands Maritime University
+- Nyenrode Business Universiteit
+- ONCAMPUS Amsterdam
+- Radboud University
+- Rotterdam University, University of Applied Sciences
+- Royal Academy of Art, The Hague
+- Saxion University of Applied Sciences
+- Stenden University of Applied Sciences
+- Technische Universiteit Eindhoven University of Technology
+- TiasNimbas Business School
+- Tilburg University
+- Tio University of Applied Sciences
+- UNESCO-IHE Institute for Water Education
+- University of Amsterdam
+- University of Groningen
+- University of Twente
+- Utrecht School of The Arts
+- Utrecht University
+- Van Hall Larenstein, University of Applied Sciences
+- Vrije Universiteit Amsterdam
+- Wageningen University and Research Centre
+- Webster University, Netherlands
+- Windesheim University of Applied Sciences
+- Wittenborg University of Applied Sciences
+- Zuyd University of Applied Sciences
