@@ -2,56 +2,57 @@ This is the folder where the data loading, as well as the data resides. For now,
 
 - Aeres University of Applied Sciences
 - Amsterdam Fashion Academy
-- Amsterdam University College
 - Amsterdam University of Applied Sciences
 - Amsterdam University of the Arts
-- Amsterdam Hogeschool vor de Kunsten
-- ArtEZ Institute of The Arts
-- Avans Hogeschool, University of Applied Sciences
+- Amsterdamse Hogeschool voor de Kunsten
+- ArtEZ University of the Arts
+- Avans Hogeschool
 - Breda University of Applied Sciences
 - Christelijke Hogeschool Ede
-- Codarts, University of the Arts
+- Codarts University of the Arts
 - Delft University of Technology
 - Design Academy Eindhoven
+- Driestar Christian University
+- Eindhoven University of Technology
 - Erasmus University Rotterdam
 - Fontys University of Applied Sciences
-- Gerrit Rietveld Academie
-- Hague University of Applied Sciences
+- Gerrit Rietveld Academy
 - HAN University of Applied Sciences
+- HAS green academy
+- HU University of Applied Sciences Utrecht
+- HZ University of Applied Sciences
 - Hanze University of Applied Sciences
-- HAS University of Applied Sciences
-- Hogeschool Van Amsterdam
-- Hogeschool Wittenborg
+- Hogeschool Leiden
+- Hogeschool voor de Kunsten Utrecht
 - Hotelschool The Hague
-- Hu University of Applied Sciences Utrecht
-- Hz University of Applied Sciences
 - Inholland University of Applied Sciences
 - Leiden University
-- Leiden University College The Hague
-- Maastricht School of Management
 - Maastricht University
-- Netherlands Maritime University
+- Maritime & Logistics University of Applied Sciences
+- Marnix Academie
+- NHL Stenden University of Applied Sciences
 - Nyenrode Business Universiteit
-- ONCAMPUS Amsterdam
+- Open Universiteit
 - Radboud University
-- Rotterdam University, University of Applied Sciences
+- Rotterdam University of Applied Sciences
 - Royal Academy of Art, The Hague
+- Royal Conservatoire The Hague
 - Saxion University of Applied Sciences
-- Stenden University of Applied Sciences
-- Technische Universiteit Eindhoven University of Technology
-- TiasNimbas Business School
+- TIAS Business School 
+- The Hague University of Applied Sciences
 - Tilburg University
+- Tinbergen Institute
 - Tio University of Applied Sciences
-- UNESCO-IHE Institute for Water Education
 - University of Amsterdam
 - University of Groningen
+- University of Humanistic Studies
 - University of Twente
-- Utrecht School of The Arts
 - Utrecht University
-- Van Hall Larenstein, University of Applied Sciences
+- Van Hall Larenstein
+- Viaa Christian University of Applied Sciences
 - Vrije Universiteit Amsterdam
-- Wageningen University and Research Centre
-- Webster University, Netherlands
+- Wageningen University & Research
+- Webster Leiden
 - Windesheim University of Applied Sciences
 - Wittenborg University of Applied Sciences
 - Zuyd University of Applied Sciences

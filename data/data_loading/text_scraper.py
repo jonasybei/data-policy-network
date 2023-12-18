@@ -3,12 +3,13 @@ import re
 from io import BytesIO
 
 import PyPDF2
+import pandas as pd
 import requests
 from trafilatura import fetch_url, extract
 
 
-def scrape_text_from_url(url):
-    if url is None:
+def scrape_text_from_url(url, verbose=False):
+    if pd.isna(url):
         return ""
 
     scraping_functions = {
@@ -17,7 +18,8 @@ def scrape_text_from_url(url):
     }
     content_type = fetch_content_type(url)
     if content_type in scraping_functions:
-        logging.warning(f"Scraped text from {url}...")
+        if verbose:
+            logging.warning(f"Scraped text from {url}...")
         return scraping_functions[content_type](url)
     else:
         raise ValueError(f"Unsupported Content Type: {content_type}")
