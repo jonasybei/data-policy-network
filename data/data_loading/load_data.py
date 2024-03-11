@@ -1,5 +1,5 @@
 import pandas as pd
-from data.data_loading.text_scraper import scrape_text_from_url
+from text_scraper import scrape_text_from_url
 
 data_sources_path = 'data_sources.csv'
 df = pd.read_csv(data_sources_path)
